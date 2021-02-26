@@ -2,6 +2,7 @@
 
 I'm a computer engineer who is passionate about layout and page design, also offering code solutions as needed. I'm Currently stdying at microverse :books: in order to get a good job and improve my code skills while taking advantage of using :star:github. 
 
+
 ## Skills:
 - :space_invader: HTML
 - :dart: CSS
@@ -9,6 +10,7 @@ I'm a computer engineer who is passionate about layout and page design, also off
 - :dart: Javascript
 - :space_invader: React
 
+_________________________________________________________________________________________________________________________________________________________________________
 ### You can find me on :earth_americas::
 
 - :zap: GitHub: [@githubhandle](https://github.com/mrigorir)
