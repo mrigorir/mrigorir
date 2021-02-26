@@ -10,7 +10,7 @@ I'm a computer engineer who is passionate about layout and page design, also off
 - :dart: Javascript
 - :space_invader: React
 
-_________________________________________________________________________________________________________________________________________________________________________
+
 ### You can find me on :earth_americas::
 
 - :zap: GitHub: [@githubhandle](https://github.com/mrigorir)
