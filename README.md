@@ -1,7 +1,6 @@
 # Hi, Marco here! 👋 :computer: :tophat:
-__________________________________________________________________________________
 
-I'm a computer engineer who is passionate about layout and page design, also offering code solutions as needed. I do enjoy working with CSS, bootstrap, Javascript and React. I'm Currently stdying at :books: microverse :books: in order to get a good job and improve my code skills while taking advantage of using @github. 
+I'm a computer engineer who is passionate about layout and page design, also offering code solutions as needed. I'm Currently stdying at microverse :books: in order to get a good job and improve my code skills while taking advantage of using @github. 
 
 _________________________________________________________________________________________________________________________________________________________________________
 
