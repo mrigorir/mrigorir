@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, Marco here! 👋 :computer: :tophat:
+__________________________________________________________________________________
 
-<!--
-**mrigorir/mrigorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineer who is passionate about layout and page design, also offering code solutions as needed. I do enjoy working with CSS, bootstrap, Javascript and React. I'm Currently stdying at :books: microverse :books: in order to get a good job and improve my code skills while taking advantage of using @github. 
 
-Here are some ideas to get you started:
+_________________________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on :earth_americas::
+
+- :zap: GitHub: [@githubhandle](https://github.com/mrigorir)
+- :zap: Twitter: [@twitterhandle](https://twitter.com/marcoparra311)
+- :zap: LinkedIn: [LinkedIn](https://www.linkedin.com/in/marco-parra-leal-a93318101/)
+
+
