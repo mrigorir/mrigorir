@@ -1,6 +1,4 @@
-![banner](C:\Users\Marco\Desktop\microverse\github-profile\mrigorir\banner.png);
-
-# Greetings! 👋 :computer: :tophat:
+# Hi, Marco here! 👋 :computer: :tophat:
 
 I'm a computer engineer who is passionate about layout and page design, also offering code solutions as needed. I'm Currently stdying at microverse :books: in order to get a good job and improve my code skills while taking advantage of using :star:github. 
 
