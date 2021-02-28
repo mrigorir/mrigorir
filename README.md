@@ -8,9 +8,10 @@ I'm a computer engineer who is passionate about layout and page design, also off
 
 Skills:                         |       You can find me on :earth_americas::
 --------                        |       ------------------------------------
-:space_invader: HTML            |       :zap: GitHub: [@githubhandle](https://github.com/mrigorir)
+:space_invader: HTML            |       :zap: GitHub: <span style="color: tomato;">[@githubhandle](https://github.com/mrigorir) </span>
 :dart: CSS                      |  
 :space_invader: Javasrcipt      |       :zap: Twitter: [@twitterhandle](https://twitter.com/marcoparra311)
 :dart: React                    |
 :space_invader: Bootstrap       |       :zap: LinkedIn: [LinkedIn](https://www.linkedin.com/in/marco-parra-leal-a93318101/) 
+                               
 
