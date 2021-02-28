@@ -8,7 +8,7 @@ I'm a computer engineer who is passionate about layout and page design, also off
 
 Skills:                         |       You can find me on :earth_americas::
 --------                        |       ------------------------------------
-:space_invader: HTML            |       :zap: GitHub: <span style="color: tomato;">[@githubhandle](https://github.com/mrigorir) </span>
+:space_invader: HTML            |       :zap: GitHub: [@githubhandle](https://github.com/mrigorir)
 :dart: CSS                      |  
 :space_invader: Javasrcipt      |       :zap: Twitter: [@twitterhandle](https://twitter.com/marcoparra311)
 :dart: React                    |
