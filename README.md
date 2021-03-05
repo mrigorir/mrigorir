@@ -15,8 +15,9 @@ Skills:                         |       You can find me on :earth_americas::
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mrigorir)|
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/mrigorir)|:zap: LinkedIn: [LinkedIn](https://www.linkedin.com/in/marco-parra-leal-a93318101/) 
 
+<br>
 
-<div display="flex">
+<div display="flex" justify-content="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrigorir" height="200px"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigorir&hide=html" height="200px" width="35%"/>
 </div>
