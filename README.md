@@ -17,7 +17,7 @@ Skills:                         |       You can find me on :earth_americas::
 
 <br>
 
-<div display="flex" justify-content="center">
+<div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=mrigorir" height="200px"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigorir&hide=html" height="200px" width="35%"/>
 </div>
