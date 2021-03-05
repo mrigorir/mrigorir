@@ -8,7 +8,7 @@ I'm a computer engineer who is passionate about layout and page design, also off
 
 <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=mrigorir" height="200px"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigorir&hide=html" height="200px" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigorir&hide=html,php" height="200px" width="35%"/>
 </div>
 
 <br>
