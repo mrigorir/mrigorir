@@ -6,6 +6,7 @@ I'm a computer engineer who is passionate about layout and page design, also off
 
 <br>
 
+
 Skills:                         |       You can find me on :earth_americas::
 --------                        |       ------------------------------------
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mrigorir)|:zap: GitHub: [@githubhandle](https://github.com/mrigorir)
@@ -13,4 +14,9 @@ Skills:                         |       You can find me on :earth_americas::
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ee)](https://github.com/mrigorir)|:zap: Twitter: [@twitterhandle](https://twitter.com/marcoparra311)
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mrigorir)|
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/mrigorir)|:zap: LinkedIn: [LinkedIn](https://www.linkedin.com/in/marco-parra-leal-a93318101/) 
-                               
+
+
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrigorir" height="200px"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigorir&hide=html" height="200px" width="35%"/>
+</div>
