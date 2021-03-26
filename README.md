@@ -19,5 +19,5 @@ Skills:                         |       You can find me on :earth_americas::
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mrigorir)|
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ee)](https://github.com/mrigorir)|:zap: Twitter: [@twitterhandle](https://twitter.com/marcoparra311)
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mrigorir)|
-[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/mrigorir)|:zap: LinkedIn: [LinkedIn](https://www.linkedin.com/in/marco-parra-leal-a93318101/) 
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/mrigorir)|:zap: LinkedIn: [LinkedIn](https://www.linkedin.com/in/marco-alonso-parra/) 
 
