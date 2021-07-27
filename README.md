@@ -2,7 +2,7 @@
 
 # Greetings! 👋 :computer: :tophat:
 
-I'm a **Computer Engineer** who is passionate about layout and page design, also offering code solutions as needed. I'm Currently studying at **Microverse** :books: a remote **Software Development School** that allows devs from all over the world to pair-program and build projects together, using **HTML, CSS, JavaScript, Ruby on Rails, React, GitHub and Markdown** among other technologies, in order to get a good job and improve my code skills while taking advantage of using GitHub.
+I'm a **Computer Engineer** who is passionate about layout and page design, also offering code solutions as needed. I'm Currently studying at **Microverse** :books: a remote **Software Development School** that allows devs from all over the world to pair-program and build projects together, using **HTML, CSS, JavaScript, Ruby on Rails, React, GitHub and Markdown** among other technologies, in order to get a good job and improve my code skills while taking advantage of using **GitHub**.
 
 <br>
 
