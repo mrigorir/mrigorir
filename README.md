@@ -2,7 +2,14 @@
 
 # Greetings! 👋 :computer: :tophat:
 
-I'm a **Computer Engineer** who is passionate about layout and page design, also offering code solutions as needed. I'm Currently studying at **Microverse** :books: a remote **Software Development School** that allows devs from all over the world to pair-program and build projects together, using **HTML, CSS, JavaScript, Ruby on Rails, React, GitHub and Markdown** among other technologies, in order to get a good job and improve my code skills while taking advantage of using **GitHub**.
+I'm a **Computer Engineer** who decided to dedicate myself to web programming with hands-on development experience,  Focused mostly on front-end design. I want to improve my skills and learn new ones, either coding new projects or working in large-scale companies.
+Passionate about learning about new technologies, always willing to research for solutions to any upcoming challenge. Open for exploring exciting frontend development opportunities in startups and companies with scale.
+
+**Front-End:** JavaScript, Angular, TyeScript, Bootstrap, Angular Material, Tailwind, CSS3, SASS HTML5.
+<br>
+**Tools & Methods:** Git, Mobile/Responsive Development, RSpec, TDD, Chrome Dev Tools, Microfrontend.
+<br>
+**CI/DC:** GitHub, Netlify.
 
 <br>
 
@@ -16,7 +23,7 @@ I'm a **Computer Engineer** who is passionate about layout and page design, also
 <p align="left">
 <a href="https://www.linkedin.com/in/marco-alonso-parra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eroauditore" height="30" width="40" /></a>
 <a href="https://twitter.com/marcoparra311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eroauditore" height="30" width="40" /></a>
-<a href="https://instagram.com/marcoparra306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ero.auditore" height="30" width="40" /></a>
+<a href="https://instagram.com/marcoparra64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ero.auditore" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
